@@ -13,9 +13,9 @@ I love to learn new programming languages and technologies, with my education fo
 - Tools: Git, Docker
 
 ## 📂 Featured Projects
-- [Marketplace] - A web app. using frontend built in Next.js and backend REST API with Spring Boot 
-- [LiftingStack] - An Android fitness app built in Java anx XML using Android Studio
-- (links to the projects above are on the way)
+- [Marketplace](https://github.com/Ebbski/marketplace) - A web app. using frontend built in Next.js and backend REST API with Spring Boot
+- [MazeGen](https://github.com/Ebbski/MazeGen) - Cute Java-written maze game made by other students that we enhanced and further developed
+- [LiftingStack](https://github.com/Ebbski/LiftingStack) - An Android fitness app built in Java anx XML using Android Studio
 
 ## 📫 How to Reach Me
 - [Email](ebbakarlberg3@gmail.com)
