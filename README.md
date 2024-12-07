@@ -4,7 +4,7 @@ I love to learn new programming languages and technologies, with my education fo
 
 ## About Me
 - 🌱 I’m currently learning programming in C and ASM
-- 🔭 I work as a programming ang tech support for students
+- 🔭 I work as a programming and tech support for students
 - 🎓 I'm currently in my final year of my bachelors degree, graduating in June 2025
 
 ## 🛠️ Skills and Tools
