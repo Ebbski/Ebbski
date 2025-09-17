@@ -1,11 +1,6 @@
 # Hi there 👋, I'm Ebba
-I'm a CS student based in Malmö who thrives on creating innovative and creative solutions to technical challenges.
-I love to learn new programming languages and technologies, with my education focusing on computer systems development.
-
-## About Me
-- 🌱 I’m currently learning programming in C and ASM
-- 🔭 I work as a programming and tech support for students
-- 🎓 I'm currently in my final year of my bachelors degree, graduating in June 2025
+I'm a software engineer based in Malmö who thrives on creating innovative and creative solutions to technical challenges.
+I love to learn new programming languages and technologies, with my bachelor's degree focusing on computer systems development.
 
 ## 🛠️ Skills and Tools
 - Languages: Java, C#, JavaScript, SQL
